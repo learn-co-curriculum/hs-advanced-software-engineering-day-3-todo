@@ -8,7 +8,7 @@ Today's big goal will be integrating a database into our Sinatra applications! F
 
 2. Speaking of Fwitter - once you have your Social Media app updated, go ahead and do the same with Fwitter. The more practice you can get with forms, the better. 
 
-3. Once you have your apps up and running, check out the Mass Assignment Lab. Your goal is to create a class that takes a hash at initialization instead of multiple arguments. This is a strong pattern in ActiveRecord, which we'll be learning today. During the lab, think about why you'd rather use a hash for an argument instead of multiple items. 
+3. Once you have your apps up and running, get some SQL practice  with the Select and Insert lab. You'll get practice reading and writing data into a SQL table called "Cats"
 
 4. We'll be talking about abstraction today. Check out this [article](http://www.artyfactory.com/art_appreciation/animals_in_art/pablo_picasso.htm) about Picasso's bulls. 
 
