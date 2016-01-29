@@ -15,4 +15,4 @@ Today's big goal will be integrating a database into our Sinatra applications! F
 
 
 
-<a href='https://learn.co/lessons/hs-advanced-software-engineering-day-3-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-advanced-software-engineering-day-3-todo' title='Welcome to Day 3!!!'>Welcome to Day 3!!!</a> on Learn.co and start learning to code for free.</p>
